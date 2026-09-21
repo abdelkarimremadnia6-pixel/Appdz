@@ -1,0 +1,6 @@
+{
+  "name": "Hanouti 40",
+  "description": "Professional inventory and stock management application with barcode scanning, sales, purchases, supplier management, debts, and Hanouti 40 PRO licensing system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

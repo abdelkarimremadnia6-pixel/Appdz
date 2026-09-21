@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestion de Stock</string>
+    <string name="dashboard">Tableau de bord</string>
+    <string name="products">Produits</string>
+    <string name="sales">Ventes</string>
+    <string name="purchases">Achats</string>
+    <string name="suppliers">Fournisseurs</string>
+    <string name="more">Plus</string>
+    <string name="debts">Dettes</string>
+    <string name="reminders">Rappels</string>
+    <string name="history">Historique stock</string>
+    <string name="settings">Paramètres</string>
+    <string name="license">Licence</string>
+    <string name="barcode_scanner">Scanner code-barres</string>
+
+    <!-- Dashboard Cards -->
+    <string name="total_products">Total Produits</string>
+    <string name="total_stock_qty">Quantité totale en stock</string>
+    <string name="low_stock">Stock faible</string>
+    <string name="out_of_stock">Rupture de stock</string>
+    <string name="today_sales">Ventes d\'aujourd\'hui</string>
+    <string name="today_purchases">Achats d\'aujourd\'hui</string>
+    <string name="total_debts">Total Dettes</string>
+    <string name="total_suppliers">Fournisseurs</string>
+    <string name="quick_actions">Actions rapides</string>
+    <string name="add_product">+ Ajouter produit</string>
+    <string name="scan_barcode">Scanner code-barres</string>
+    <string name="new_sale">Nouvelle vente</string>
+    <string name="new_purchase">Nouvel achat</string>
+
+    <!-- Product Management -->
+    <string name="product_name">Nom du produit</string>
+    <string name="barcode">Code-barres</string>
+    <string name="category">Catégorie</string>
+    <string name="description">Description</string>
+    <string name="purchase_price">Prix d\'achat</string>
+    <string name="selling_price">Prix de vente</string>
+    <string name="quantity">Quantité</string>
+    <string name="min_quantity">Quantité minimale</string>
+    <string name="unit">Unité (pcs, kg, boîte, etc.)</string>
+    <string name="supplier">Fournisseur</string>
+    <string name="expiration_date">Date d\'expiration</string>
+    <string name="notes">Remarques</string>
+    <string name="in_stock">EN STOCK</string>
+    <string name="low_stock_badge">STOCK FAIBLE</string>
+    <string name="out_of_stock_badge">RUPTURE DE STOCK</string>
+    <string name="no_products_yet">Aucun produit pour le moment</string>
+    <string name="add_first_product_desc">Ajoutez votre premier produit pour commencer à gérer votre inventaire.</string>
+    <string name="search_products">Rechercher par nom, code-barres, catégorie…</string>
+    <string name="all_categories">Tous</string>
+    <string name="sort_by">Trier par</string>
+    <string name="sort_name_asc">Nom : A à Z</string>
+    <string name="sort_name_desc">Nom : Z à A</string>
+    <string name="sort_qty_low">Quantité : croissante</string>
+    <string name="sort_qty_high">Quantité : décroissante</string>
+    <string name="sort_price_low">Prix : croissant</string>
+    <string name="sort_price_high">Prix : décroissant</string>
+    <string name="sort_recent">Récemment ajoutés</string>
+
+    <!-- Product Actions -->
+    <string name="edit_product">Modifier produit</string>
+    <string name="delete_product">Supprimer produit</string>
+    <string name="duplicate_product">Dupliquer produit</string>
+    <string name="increase_stock">Augmenter stock (+)</string>
+    <string name="decrease_stock">Diminuer stock (-)</string>
+    <string name="adjust_stock">Ajuster stock</string>
+    <string name="product_saved">Produit enregistré avec succès</string>
+    <string name="product_deleted">Produit supprimé</string>
+    <string name="confirm_delete_product">Êtes-vous sûr de vouloir supprimer ce produit ?</string>
+
+    <!-- Suppliers -->
+    <string name="add_supplier">+ Ajouter fournisseur</string>
+    <string name="edit_supplier">Modifier fournisseur</string>
+    <string name="delete_supplier">Supprimer fournisseur</string>
+    <string name="supplier_name">Nom du fournisseur</string>
+    <string name="company">Entreprise</string>
+    <string name="phone">Numéro de téléphone</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="email">E-mail</string>
+    <string name="address">Adresse</string>
+    <string name="no_suppliers_yet">Aucun fournisseur pour le moment</string>
+    <string name="add_first_supplier_desc">Ajoutez vos fournisseurs pour suivre facilement vos commandes et dettes.</string>
+    <string name="total_purchases_val">Total des achats</string>
+    <string name="amount_owed">Montant dû</string>
+    <string name="amount_paid">Montant payé</string>
+    <string name="remaining_amount">Montant restant</string>
+    <string name="record_payment">Enregistrer paiement</string>
+    <string name="search_suppliers">Rechercher par nom, entreprise, téléphone…</string>
+
+    <!-- Sales & Purchases -->
+    <string name="create_sale">Valider la vente</string>
+    <string name="create_purchase">Valider l\'achat</string>
+    <string name="select_product">Sélectionner un produit</string>
+    <string name="cart_empty">Le panier est vide. Ajoutez des produits pour continuer.</string>
+    <string name="subtotal">Sous-total</string>
+    <string name="discount">Remise</string>
+    <string name="total">Total</string>
+    <string name="paid">Payé</string>
+    <string name="remaining">Reste</string>
+    <string name="customer_name">Nom du client</string>
+    <string name="customer_phone">Téléphone client</string>
+    <string name="insufficient_stock">Stock insuffisant pour cette quantité !</string>
+    <string name="sale_completed">Vente effectuée avec succès</string>
+    <string name="purchase_completed">Achat enregistré avec succès</string>
+    <string name="receipt">Reçu</string>
+    <string name="receipt_number">Reçu N°</string>
+    <string name="print_receipt">Imprimer reçu</string>
+    <string name="share_receipt">Partager reçu</string>
+    <string name="save_pdf">Enregistrer PDF</string>
+    <string name="date">Date</string>
+
+    <!-- Debts & Payments -->
+    <string name="customer_debts">Dettes clients</string>
+    <string name="supplier_debts">Dettes fournisseurs</string>
+    <string name="no_debts">Aucune dette enregistrée</string>
+    <string name="add_debt">+ Ajouter dette</string>
+    <string name="payment_history">Historique des paiements</string>
+    <string name="payment_recorded">Paiement enregistré avec succès</string>
+    <string name="amount">Montant</string>
+
+    <!-- Barcode Scanner -->
+    <string name="camera_permission_required">L\'autorisation de l\'appareil photo est requise pour scanner les codes-barres.</string>
+    <string name="allow_camera">Autoriser l\'appareil photo</string>
+    <string name="point_camera_at_barcode">Pointez la caméra vers le code-barres ou code QR</string>
+    <string name="barcode_detected">Code-barres détecté : %1$s</string>
+    <string name="invalid_barcode">Code-barres invalide.</string>
+
+    <!-- Notifications & Reminders -->
+    <string name="notifications">Notifications</string>
+    <string name="add_reminder">+ Ajouter rappel</string>
+    <string name="no_reminders">Aucun rappel programmé</string>
+    <string name="reminder_title">Titre du rappel</string>
+    <string name="repeat_option">Répéter</string>
+    <string name="repeat_once">Une fois</string>
+    <string name="repeat_daily">Quotidien</string>
+    <string name="repeat_weekly">Hebdomadaire</string>
+    <string name="repeat_monthly">Mensuel</string>
+    <string name="notification_permission_explanation">Autorisez les notifications pour recevoir les alertes de stock faible et les rappels d\'inventaire.</string>
+    <string name="allow_notifications">Autoriser les notifications</string>
+    <string name="open_notification_settings">Ouvrir paramètres de notifications</string>
+    <string name="low_stock_notification_title">Alerte Stock Faible</string>
+    <string name="low_stock_notification_body">%1$s est presque épuisé. Il ne reste que %2$d unités.</string>
+    <string name="out_of_stock_notification_title">Alerte Rupture de Stock</string>
+    <string name="out_of_stock_notification_body">%1$s est en rupture totale de stock (0 unité).</string>
+
+    <!-- Settings -->
+    <string name="business_name">Nom de l\'entreprise</string>
+    <string name="currency">Devise</string>
+    <string name="default_min_stock">Stock minimum par défaut</string>
+    <string name="allow_negative_stock">Autoriser stock négatif lors de la vente</string>
+    <string name="enable_low_stock_notifications">Notifications de stock faible</string>
+    <string name="enable_reminders">Rappels de stock</string>
+    <string name="background_monitoring">Surveillance du stock en arrière-plan</string>
+    <string name="background_monitoring_info">WorkManager surveille le stock périodiquement même quand l\'application est fermée. La fréquence dépend de l\'optimisation de batterie d\'Android.</string>
+    <string name="dark_theme">Mode sombre</string>
+    <string name="language">Langue</string>
+    <string name="backup_restore">Sauvegarde &amp; Restauration</string>
+    <string name="export_data">Exporter sauvegarde (JSON)</string>
+    <string name="import_data">Restaurer sauvegarde (JSON)</string>
+    <string name="backup_success">Sauvegarde exportée avec succès</string>
+    <string name="restore_success">Données restaurées avec succès</string>
+    <string name="restore_confirm_title">Restaurer les données ?</string>
+    <string name="restore_confirm_message">La restauration remplacera ou fusionnera les données actuelles avec la sauvegarde. Voulez-vous continuer ?</string>
+    <string name="about">À propos</string>
+    <string name="app_version">Version 1.0 (Production)</string>
+
+    <!-- License -->
+    <string name="license_status">Statut de la licence</string>
+    <string name="enter_license_key">Entrez la clé de licence</string>
+    <string name="activate_license">Activer la licence</string>
+    <string name="license_active">Licence active</string>
+    <string name="license_inactive">Aucune licence active</string>
+    <string name="invalid_license">Clé de licence invalide ou expirée.</string>
+    <string name="license_success">Licence activée avec succès !</string>
+    <string name="license_expires_on">Expire le : %1$s</string>
+    <string name="license_demo_key_hint">Exemple de clé : INV-PRO8-2028-9842-7B3A</string>
+
+    <!-- Common -->
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="delete">Supprimer</string>
+    <string name="confirm">Confirmer</string>
+    <string name="error">Erreur</string>
+    <string name="success">Succès</string>
+    <string name="loading">Chargement…</string>
+    <string name="name_required">Le nom est obligatoire</string>
+    <string name="valid_quantity_required">Veuillez saisir une quantité valide</string>
+    <string name="valid_price_required">Veuillez saisir un prix valide</string>
+    <string name="db_error">Impossible de charger les données. Veuillez réessayer.</string>
+    <string name="stock_history">Historique du stock</string>
+    <string name="license_system">Système de licence</string>
+    <string name="no_reminders_yet">Aucun rappel planifié</string>
+    <string name="create_first_reminder_desc">Ajoutez votre premier rappel de stock ou alarme d\'inventaire.</string>
+    <string name="low_stock_notifications">Notifications de stock faible</string>
+    <string name="background_check">Surveillance du stock en arrière-plan</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="french">Français</string>
+    <string name="export_backup">Exporter sauvegarde</string>
+    <string name="restore_backup">Restaurer sauvegarde</string>
+    <string name="save_settings">Enregistrer les paramètres</string>
+</resources>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إدارة المخزون</string>
+    <string name="dashboard">لوحة التحكم</string>
+    <string name="products">المنتجات</string>
+    <string name="sales">المبيعات</string>
+    <string name="purchases">المشتريات</string>
+    <string name="suppliers">الموردون</string>
+    <string name="more">المزيد</string>
+    <string name="debts">الديون</string>
+    <string name="reminders">التذكيرات</string>
+    <string name="history">سجل المخزون</string>
+    <string name="settings">الإعدادات</string>
+    <string name="license">الترخيص</string>
+    <string name="barcode_scanner">ماسح الباركود</string>
+
+    <!-- Dashboard Cards -->
+    <string name="total_products">إجمالي المنتجات</string>
+    <string name="total_stock_qty">إجمالي كمية المخزون</string>
+    <string name="low_stock">مخزون منخفض</string>
+    <string name="out_of_stock">نفذ من المخزون</string>
+    <string name="today_sales">مبيعات اليوم</string>
+    <string name="today_purchases">مشتريات اليوم</string>
+    <string name="total_debts">إجمالي الديون</string>
+    <string name="total_suppliers">الموردون</string>
+    <string name="quick_actions">إجراءات سريعة</string>
+    <string name="add_product">+ إضافة منتج</string>
+    <string name="scan_barcode">مسح باركود</string>
+    <string name="new_sale">بيع جديد</string>
+    <string name="new_purchase">شراء جديد</string>
+
+    <!-- Product Management -->
+    <string name="product_name">اسم المنتج</string>
+    <string name="barcode">الباركود</string>
+    <string name="category">الفئة</string>
+    <string name="description">الوصف</string>
+    <string name="purchase_price">سعر الشراء</string>
+    <string name="selling_price">سعر البيع</string>
+    <string name="quantity">الكمية</string>
+    <string name="min_quantity">الحد الأدنى للكمية</string>
+    <string name="unit">الوحدة (قطعة، كغ، صندوق، إلخ)</string>
+    <string name="supplier">المورد</string>
+    <string name="expiration_date">تاريخ انتهاء الصلاحية</string>
+    <string name="notes">ملاحظات</string>
+    <string name="in_stock">متوفر في المخزون</string>
+    <string name="low_stock_badge">مخزون منخفض</string>
+    <string name="out_of_stock_badge">نفذ من المخزون</string>
+    <string name="no_products_yet">لا توجد منتجات بعد</string>
+    <string name="add_first_product_desc">أضف منتجك الأول للبدء في إدارة مخزونك.</string>
+    <string name="search_products">البحث عن المنتجات بالاسم، الباركود، الفئة…</string>
+    <string name="all_categories">الكل</string>
+    <string name="sort_by">ترتيب حسب</string>
+    <string name="sort_name_asc">الاسم: أ إلى ي</string>
+    <string name="sort_name_desc">الاسم: ي إلى أ</string>
+    <string name="sort_qty_low">الكمية: من الأقل للأعلى</string>
+    <string name="sort_qty_high">الكمية: من الأعلى للأقل</string>
+    <string name="sort_price_low">السعر: من الأقل للأعلى</string>
+    <string name="sort_price_high">السعر: من الأعلى للأقل</string>
+    <string name="sort_recent">المضافة حديثاً</string>
+
+    <!-- Product Actions -->
+    <string name="edit_product">تعديل المنتج</string>
+    <string name="delete_product">حذف المنتج</string>
+    <string name="duplicate_product">نسخ المنتج</string>
+    <string name="increase_stock">زيادة المخزون (+)</string>
+    <string name="decrease_stock">إنقاص المخزون (-)</string>
+    <string name="adjust_stock">تعديل المخزون</string>
+    <string name="product_saved">تم حفظ المنتج بنجاح</string>
+    <string name="product_deleted">تم حذف المنتج</string>
+    <string name="confirm_delete_product">هل أنت متأكد من رغبتك في حذف هذا المنتج؟</string>
+
+    <!-- Suppliers -->
+    <string name="add_supplier">+ إضافة مورد</string>
+    <string name="edit_supplier">تعديل المورد</string>
+    <string name="delete_supplier">حذف المورد</string>
+    <string name="supplier_name">اسم المورد</string>
+    <string name="company">الشركة</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="whatsapp">واتساب</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="address">العنوان</string>
+    <string name="no_suppliers_yet">لا يوجد موردون بعد</string>
+    <string name="add_first_supplier_desc">أضف الموردين لتتبع طلباتك وديونك بسهولة.</string>
+    <string name="total_purchases_val">إجمالي المشتريات</string>
+    <string name="amount_owed">المبلغ المستحق</string>
+    <string name="amount_paid">المبلغ المدفوع</string>
+    <string name="remaining_amount">المبلغ المتبقي</string>
+    <string name="record_payment">تسجيل دفعة</string>
+    <string name="search_suppliers">البحث عن مورد بالاسم، الشركة، الهاتف…</string>
+
+    <!-- Sales & Purchases -->
+    <string name="create_sale">إتمام عملية البيع</string>
+    <string name="create_purchase">إتمام عملية الشراء</string>
+    <string name="select_product">اختر المنتج</string>
+    <string name="cart_empty">السلة فارغة. أضف منتجات للمتابعة.</string>
+    <string name="subtotal">المجموع الفرعي</string>
+    <string name="discount">الخصم</string>
+    <string name="total">المجموع الإجمالي</string>
+    <string name="paid">المدفوع</string>
+    <string name="remaining">المتبقي</string>
+    <string name="customer_name">اسم العميل</string>
+    <string name="customer_phone">هاتف العميل</string>
+    <string name="insufficient_stock">الكمية المتوفرة في المخزون غير كافية!</string>
+    <string name="sale_completed">تمت عملية البيع بنجاح</string>
+    <string name="purchase_completed">تمت عملية الشراء بنجاح</string>
+    <string name="receipt">فاتورة</string>
+    <string name="receipt_number">رقم الفاتورة #</string>
+    <string name="print_receipt">طباعة الفاتورة</string>
+    <string name="share_receipt">مشاركة الفاتورة</string>
+    <string name="save_pdf">حفظ كـ PDF</string>
+    <string name="date">التاريخ</string>
+
+    <!-- Debts & Payments -->
+    <string name="customer_debts">ديون العملاء</string>
+    <string name="supplier_debts">ديون الموردين</string>
+    <string name="no_debts">لا توجد ديون مسجلة</string>
+    <string name="add_debt">+ إضافة دين</string>
+    <string name="payment_history">سجل الدفعات</string>
+    <string name="payment_recorded">تم تسجيل الدفعة بنجاح</string>
+    <string name="amount">المبلغ</string>
+
+    <!-- Barcode Scanner -->
+    <string name="camera_permission_required">إذن الكاميرا مطلوب لمسح الباركود.</string>
+    <string name="allow_camera">السماح بالكاميرا</string>
+    <string name="point_camera_at_barcode">وجّه الكاميرا نحو الباركود أو رمز QR</string>
+    <string name="barcode_detected">تم اكتشاف الباركود: %1$s</string>
+    <string name="invalid_barcode">باركود غير صالح.</string>
+
+    <!-- Notifications & Reminders -->
+    <string name="notifications">الإشعارات</string>
+    <string name="add_reminder">+ إضافة تذكير</string>
+    <string name="no_reminders">لا توجد تذكيرات مجدولة</string>
+    <string name="reminder_title">عنوان التذكير</string>
+    <string name="repeat_option">التكرار</string>
+    <string name="repeat_once">مرة واحدة</string>
+    <string name="repeat_daily">يومياً</string>
+    <string name="repeat_weekly">أسبوعياً</string>
+    <string name="repeat_monthly">شهرياً</string>
+    <string name="notification_permission_explanation">اسمح بالإشعارات لتلقي تنبيهات انخفاض المخزون وتذكيرات الجرد.</string>
+    <string name="allow_notifications">السماح بالإشعارات</string>
+    <string name="open_notification_settings">فتح إعدادات الإشعارات</string>
+    <string name="low_stock_notification_title">تنبيه انخفاض المخزون</string>
+    <string name="low_stock_notification_body">مخزون %1$s منخفض. تبقى فقط %2$d وحدات.</string>
+    <string name="out_of_stock_notification_title">تنبيه نفاذ المخزون</string>
+    <string name="out_of_stock_notification_body">%1$s نفذ تماماً من المخزون (0 وحدات).</string>
+
+    <!-- Settings -->
+    <string name="business_name">اسم النشاط التجاري</string>
+    <string name="currency">العملة</string>
+    <string name="default_min_stock">الحد الأدنى الافتراضي للمخزون</string>
+    <string name="allow_negative_stock">السماح بالمخزون السالب عند البيع</string>
+    <string name="enable_low_stock_notifications">إشعارات المخزون المنخفض</string>
+    <string name="enable_reminders">تذكيرات المخزون</string>
+    <string name="background_monitoring">مراقبة المخزون في الخلفية</string>
+    <string name="background_monitoring_info">يقوم WorkManager بفحص مستويات المخزون دورياً حتى عند إغلاق التطبيق. يتوقف التوقيت على تحسين استهلاك بطارية أندرويد.</string>
+    <string name="dark_theme">الوضع الداكن</string>
+    <string name="language">اللغة</string>
+    <string name="backup_restore">النسخ الاحتياطي والاستعادة</string>
+    <string name="export_data">تصدير نسخة احتياطية (JSON)</string>
+    <string name="import_data">استعادة نسخة احتياطية (JSON)</string>
+    <string name="backup_success">تم تصدير النسخة الاحتياطية بنجاح</string>
+    <string name="restore_success">تمت استعادة البيانات بنجاح</string>
+    <string name="restore_confirm_title">استعادة البيانات؟</string>
+    <string name="restore_confirm_message">ستؤدي الاستعادة إلى استبدال أو دمج بيانات المخزون الحالية مع ملف النسخ الاحتياطي. هل ترغب في المتابعة؟</string>
+    <string name="about">حول التطبيق</string>
+    <string name="app_version">الإصدار 1.0 (إنتاجي)</string>
+
+    <!-- License -->
+    <string name="license_status">حالة الترخيص</string>
+    <string name="enter_license_key">أدخل مفتاح الترخيص</string>
+    <string name="activate_license">تفعيل الترخيص</string>
+    <string name="license_active">الترخيص مفعّل</string>
+    <string name="license_inactive">لا يوجد ترخيص نشط</string>
+    <string name="invalid_license">مفتاح الترخيص غير صالح أو منتهي الصلاحية.</string>
+    <string name="license_success">تم تفعيل الترخيص بنجاح!</string>
+    <string name="license_expires_on">ينتهي في: %1$s</string>
+    <string name="license_demo_key_hint">مفتاح تجريبي: INV-PRO8-2028-9842-7B3A</string>
+
+    <!-- Common -->
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="confirm">تأكيد</string>
+    <string name="error">خطأ</string>
+    <string name="success">نجاح</string>
+    <string name="loading">جاري التحميل…</string>
+    <string name="name_required">الاسم مطلوب</string>
+    <string name="valid_quantity_required">يرجى إدخال كمية صحيحة</string>
+    <string name="valid_price_required">يرجى إدخال سعر صحيح</string>
+    <string name="db_error">تعذر تحميل البيانات. يرجى المحاولة ثانية.</string>
+    <string name="stock_history">سجل حركة المخزون</string>
+    <string name="license_system">نظام التفعيل والترخيص</string>
+    <string name="no_reminders_yet">لا توجد تنبيهات مجدولة بعد</string>
+    <string name="create_first_reminder_desc">أضف تنبيهك الأول لمراجعة المخزون.</string>
+    <string name="low_stock_notifications">إشعارات المخزون المنخفض</string>
+    <string name="background_check">مراقبة المخزون في الخلفية</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="french">Français</string>
+    <string name="export_backup">تصدير نسخة احتياطية</string>
+    <string name="restore_backup">استعادة نسخة احتياطية</string>
+    <string name="save_settings">حفظ الإعدادات</string>
+</resources>
